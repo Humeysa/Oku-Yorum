@@ -1,0 +1,233 @@
+@charset "utf-8";
+body {
+	background-image: url(resimler/background-1747786_960_720.jpg);
+	background-repeat: repeat;
+}
+
+#sablon {
+	background-color: #FFF;
+	height: auto;
+	width: 980px;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 10px;
+	border: 1px solid #000;
+	border-radius: 5px;
+}
+#header {
+	height: 150px;
+	width: 980px;
+}
+#logo {
+	height: 146px;
+	width: 185px;
+	border: 2px double #000;
+	float: left;
+	border-radius: 5px;
+}
+#menu {
+	background-color: #FF9B99;
+	height: 36px;
+	width: 586px;
+	border: 2px ridge #000;
+	float: left;
+	margin-top: 51px;
+	margin-right: 100px;
+	margin-bottom: 51px;
+	margin-left: 100px;
+	border-radius: 5px;
+}
+#sablon #header #menu ul {
+	padding: 0px;
+	list-style-type: none;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 75px;
+}
+#sablon #header #menu ul li a {
+	display: block;
+	float: left;
+	height: 36px;
+	width: 110px;
+	text-decoration: none;
+	color: #000;
+	font-weight: bold;
+	text-align: center;
+	line-height: 36px;
+}
+#sablon #header #menu ul li a:hover {
+	display: block;
+	float: left;
+	height: 36px;
+	width: 110px;
+	text-decoration: none;
+	color: #F36;
+	font-weight: bold;
+	text-align: center;
+	line-height: 36px;
+}
+#clear-header {
+	clear: both;
+}
+#clear-header p {
+	clear: both;
+}
+#content {
+}
+
+
+#banner {
+	height: 320px;
+	width: 980px;
+	margin-top: 10px;
+	background-image: none;
+	background-repeat: no-repeat;
+	background-position: bottom;
+	padding: 0px;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-style: 0;
+	border-right-style: 0;
+	border-bottom-style: 0;
+	border-left-style: 0;
+}
+#divider {
+	background-image: url(resimler/3.png);
+	height: 22px;
+	width: 900px;
+	background-repeat: repeat;
+	margin: 20px;
+	padding-top: 0px;
+	padding-right: 15px;
+	padding-bottom: 0px;
+	padding-left: 15px;
+}
+#content {
+	height: 200px;
+	width: 980px;
+}
+#content-left {
+	font-size: 24px;
+	text-align: center;
+	padding: 5px;
+	height: 188px;
+	width: 288px;
+	color: #40331C;
+	background-color: #FF9B99;
+	float: left;
+	border: 1px solid #000;
+}
+#content #content-right h1 {
+	font-size: 18px;
+}
+
+
+#content-left {
+	background-color: #FF9B99;
+	float: left;
+	height: 188px;
+	width: 288px;
+	border: 1px solid #000;
+	padding: 5px;
+	font-size: 24px;
+	text-align: center;
+	border-radius: 5px;
+
+}
+#content-center {
+}
+
+#sablon #content #content-left h1 {
+	font-size: 30px;
+	color: #65502C;
+	margin: 0px;
+	border-bottom-width: 1px;
+	border-bottom-style: dashed;
+	border-bottom-color: #000000;
+	font-family: "Comic Sans MS", cursive;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 5px;
+	padding-left: 0px;
+}
+
+
+#content-center {
+	height: 198px;
+	width: 298px;
+	border: 1px solid #000;
+	float: left;
+	margin-right: 20px;
+	margin-left: 20px;
+	border-radius: 5px;
+}
+#content-right {
+}
+
+#content-right {
+	background-color: #65502C;
+	float: left;
+	height: 198px;
+	width: 338px;
+	border: 1px solid #000;
+	text-align: center;
+	font-size: 20px;
+	color: #FF8B88;
+	border-radius: 5px;
+}
+#content #content-left h1 {
+	font-size: 30px;
+	color: #65502C;
+	font-family: "Comic Sans MS", cursive;
+	text-align: center;
+	margin: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 5px;
+	padding-left: 0px;
+	border-bottom-width: 1px;
+	border-bottom-style: dashed;
+	border-bottom-color: #000;
+}
+
+#sablon #content #content-right h1 {
+	font-size: 18px;
+	font-family: "Comic Sans MS", cursive;
+	border-bottom-width: 1px;
+	border-bottom-style: dashed;
+	border-bottom-color: #000;
+	padding-bottom: 5px;
+}
+#clear-content {
+	clear: both;
+}
+#footer {
+	font-size: 12px;
+	font-weight: bold;
+	color: #000;
+	height: 30px;
+	width: 980px;
+	line-height: 30px;
+}
+#clear-header h1 {
+	font-size: 30px;
+	color: #FF8784;
+	text-align: center;
+}
+#clear-header #form1 {
+	text-align: left;
+	margin-top: 10px;
+	margin-right: 60px;
+	margin-bottom: 10px;
+	margin-left: 60px;
+}
+#clear-content {
+	clear: both;
+}
+#footer {
+	height: 20px;
+	width: 980px;
+}

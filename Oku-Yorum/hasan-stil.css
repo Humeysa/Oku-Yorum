@@ -1,0 +1,175 @@
+@charset "utf-8";
+body {
+	background-image: url(resimler/floral-2622312_960_720.jpg);
+	background-repeat: repeat;
+}
+#sablon {
+	background-color: #Ece2a5;
+	padding: 10px;
+	height: auto;
+	width: 980px;
+	margin-right: auto;
+	margin-left: auto;
+	border: 1px solid #000;
+	border-radius: 5px;
+}
+#header {
+	height: 150px;
+	width: 980px;
+}
+#logo {
+	height: 146px;
+	width: 185px;
+	float: left;
+	border: 2px double #000;
+	border-radius: 5px;
+}
+#menu {
+	float: left;
+	height: 36px;
+	width: 586px;
+	margin-top: 51px;
+	margin-right: 100px;
+	margin-bottom: 51px;
+	margin-left: 100px;
+	border: 2px double #000;
+	border-radius: 5px;
+}
+#sablon #header #menu ul {
+	padding: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 75px;
+	list-style-type: none;
+}
+#sablon #header #menu ul li a {
+	line-height: 36px;
+	font-weight: bold;
+	color: #000;
+	text-align: center;
+	display: block;
+	float: left;
+	height: 36px;
+	width: 110px;
+	text-decoration: none;
+}
+#sablon #header #menu ul li a:hover {
+	line-height: 36px;
+	font-weight: bold;
+	color: #F36;
+	text-align: center;
+	display: block;
+	float: left;
+	height: 36px;
+	width: 110px;
+}
+#clear-header {
+	clear: both;
+}
+#banner {
+	height: 250px;
+	width: 980px;
+	margin-top: 30px;
+}
+#banner-bilgi {
+	float: left;
+	height: 246px;
+	width: 456px;
+	border: 2px double #000;
+	border-radius: 5px;
+}
+#sablon #banner #banner-bilgi h1 {
+	font-family: "Comic Sans MS", cursive;
+	font-size: 50px;
+	color: #F36;
+	text-align: center;
+}
+#banner-img {
+	float: left;
+	height: 246px;
+	width: 486px;
+	margin-left: 30px;
+	border: 2px double #000;
+	border-radius: 5px;
+}
+#clear-banner {
+	clear: both;
+}
+#content {
+	height: 456px;
+	width: 980px;
+	margin-top: 30px;
+}
+#content-1 {
+	height: 454px;
+	width: 288px;
+	border: 2px double #000;
+	float: left;
+	padding-top: 0px;
+	padding-right: 5px;
+	padding-bottom: 0px;
+	padding-left: 5px;
+	border-radius: 5px;
+}
+#sablon #content #content-2 h1 {
+	font-family: "Comic Sans MS", cursive;
+	font-size: 27px;
+	text-align: center;
+}
+
+#sablon #content #content-1 h1 {
+	font-family: "Comic Sans MS", cursive;
+	font-size: 24px;
+	text-align: center;
+}
+#sablon #content #content-1 h4 {
+	font-size: 16px;
+	text-align: center;
+}
+#sablon #content #content-2 h4 {
+	font-size: 16px;
+	text-align: center;
+}
+
+
+
+#content-2 {
+	float: left;
+	height: 454px;
+	width: 288px;
+	margin-right: 20px;
+	margin-left: 20px;
+	border: 2px double #000;
+	padding-top: 0px;
+	padding-right: 5px;
+	padding-bottom: 0px;
+	padding-left: 5px;
+	border-radius: 5px;
+}
+#sablon #content #content-3 h1 {
+	font-size: 33px;
+	text-align: center;
+}
+#sablon #content #content-3 h4 {
+	font-size: 17px;
+	text-align: center;
+}
+
+
+#content-3 {
+	height: 454px;
+	width: 322px;
+	border: 2px double #000;
+	float: left;
+	padding-right: 5px;
+	padding-left: 5px;
+	border-radius: 5px;
+}
+#clear-content {
+	clear: both;
+}
+#footer {
+	height: 20px;
+	width: 980px;
+}

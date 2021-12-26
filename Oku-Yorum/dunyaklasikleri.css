@@ -1,0 +1,170 @@
+@charset "utf-8";
+body {
+	background-image: url(resimler/floral-2622312_960_720.jpg);
+}
+#sablon {
+	height: auto;
+	width: 980px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #Ece2a5;
+	padding: 10px;
+	border: 1px solid #000;
+	border-radius: 5px;
+}
+
+#header {
+	height: 150px;
+	width: 980px;
+}
+#logo {
+	float: left;
+	height: 146px;
+	width: 185px;
+	border: 2px double #000;
+	border-radius: 5px;
+}
+#menu {
+	float: left;
+	height: 36px;
+	width: 586px;
+	margin-top: 51px;
+	margin-right: 100px;
+	margin-bottom: 51px;
+	margin-left: 100px;
+	border: 2px double #000;
+	border-radius: 5px;
+}
+#sablon #header #menu ul {
+	padding: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 75px;
+	list-style-type: none;
+}
+#sablon #header #menu ul li a {
+	line-height: 36px;
+	font-weight: bold;
+	color: #000;
+	text-decoration: none;
+	text-align: center;
+	display: block;
+	float: left;
+	height: 36px;
+	width: 110px;
+}
+#sablon #header #menu ul li a:hover {
+	line-height: 36px;
+	font-weight: bold;
+	color: #F36;
+	text-decoration: none;
+	text-align: center;
+	display: block;
+	float: left;
+	height: 36px;
+	width: 110px;
+}
+#clear-header {
+	clear: both;
+}
+#banner {
+	height: 250px;
+	width: 980px;
+	margin-top: 30px;
+}
+#banner-bilgi {
+	float: left;
+	height: 246px;
+	width: 456px;
+	border: 2px double #000;
+	border-radius: 5px;
+}
+#banner-img {
+	height: 246px;
+	width: 486px;
+	margin-left: 30px;
+	border: 2px double #000;
+	float: left;
+	border-radius: 5px;
+}
+#sablon #banner #banner-bilgi h1 {
+	font-size: 55px;
+	color: #F36;
+	text-align: center;
+	padding: 20px;
+}
+#clear-banner {
+	clear: both;
+}
+#content {
+	height: 456px;
+	width: 980px;
+	margin-top: 30px;
+}
+#content-1 {
+	float: left;
+	height: 454px;
+	width: 288px;
+	padding-top: 0px;
+	padding-right: 5px;
+	padding-bottom: 0px;
+	padding-left: 5px;
+	border: 2px double #000;
+	border-radius: 5px;
+}
+#content-2 {
+	float: left;
+	height: 454px;
+	width: 288px;
+	margin-right: 20px;
+	margin-left: 20px;
+	padding-top: 0px;
+	padding-right: 5px;
+	padding-bottom: 0px;
+	padding-left: 5px;
+	border: 2px double #000;
+	border-radius: 5px;
+}
+#content-3 {
+	float: left;
+	height: 454px;
+	width: 322px;
+	padding-right: 5px;
+	padding-left: 5px;
+	border: 2px double #000;
+	border-radius: 5px;
+}
+#sablon #content #content-1 h1 {
+	font-size: 24px;
+	text-align: center;
+}
+#sablon #content #content-1 p {
+	font-size: 17px;
+	text-align: center;
+}
+#sablon #content #content-2 h2 {
+	text-align: center;
+}
+#sablon #content #content-2 p {
+	text-align: center;
+	font-size: 17px;
+}
+#sablon #content #content-3 h2 {
+	text-align: center;
+}
+#footer {
+	height: 20px;
+	width: 980px;
+	margin-top: 10px;
+	font-size: 12px;
+}
+#clear-content {
+	clear: both;
+}
+
+
+#sablon #content #content-3 p {
+	text-align: center;
+	font-size: 18px;
+}
